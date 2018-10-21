@@ -1,0 +1,19 @@
+commit 93e5be68377f2b60262293516c080ab767ebbadd
+Author: Jose <al221610313@gmail.com>
+Date:   Sat Oct 20 19:45:09 2018 -0500
+
+    Se agrego el social icon de GitHub y se les cambio el color de fondo en el hover
+
+
+commit df7de018b9a37cc3366d39c6c9c650e6259e9b09
+Author: Jose <al221610313@gmail.com>
+Date:   Sat Oct 20 19:37:41 2018 -0500
+
+    Quitamos los social links de google plus y inkedin
+
+
+commit daafa3b696813e270466b4d5de6047930b47cb95
+Author: Jose <al221610313@gmail.com>
+Date:   Sat Oct 20 19:33:22 2018 -0500
+
+    Iniciamos
